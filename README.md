@@ -1,11 +1,11 @@
-<h1 align="center">Olá, eu sou Isaque</h1>
-<h3 align="center">Desenvolvendo projetos com ajuda da Alura</h3>
+### Boas vindas ao meu perfil!
+
+Meu nome é Isaque
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<div style="display: inline_block"><br>
+  <img allign="center" alt="js" height="30" width="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img allign="center" alt="windows" height="30" width="40" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img allign="center" alt="debian" height="30" width="40" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+  <img allign="center" alt="fdroid" height="30" width="40" src="https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white">
