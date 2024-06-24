@@ -9,3 +9,4 @@ Meu nome é Isaque
   <img allign="center" alt="windows" height="30" width="40" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img allign="center" alt="debian" height="30" width="40" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
   <img allign="center" alt="fdroid" height="30" width="40" src="https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white">
+</div>
